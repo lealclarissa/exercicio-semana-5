@@ -1,0 +1,23 @@
+{
+  "name": "exercicio-semana-5",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a>      <img alt=\"GitHub repo size\" src=\"https://img.shields.io/github/repo-size/lealclarissa/exercicio-semana-5\">     <img alt=\"GitHub last commit\" src=\"https://img.shields.io/github/last-commit/lealclarissa/exercicio-semana-5\">   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lealclarissa/exercicio-semana-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lealclarissa/exercicio-semana-5/issues"
+  },
+  "homepage": "https://github.com/lealclarissa/exercicio-semana-5#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
