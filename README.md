@@ -1,7 +1,7 @@
 <p align="center">
   <a> 
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lealclarissa/exercicio-semana-5">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lealclarissa/exercicio-semana-5">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lealclarissa/exercicio-semana-5?color=yellow">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lealclarissa/exercicio-semana-5?color=yellow">
   </a>
 </p>
 
@@ -15,18 +15,17 @@ Devemos criar duas funcionalidades:
 * Cadastro de pokemons  
 * Treinamento de pokemons  
 
----
-
 ## Referências:
 
 Repositório da aula: https://github.com/reprograma/on7-porto-s5-projeto-guiado-I-I
+
+---
 
 ## Autora
 
 <a>
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Clarissa Leal</b></sub>
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Clarissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Clarissa_Leal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)
